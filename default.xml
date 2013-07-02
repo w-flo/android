@@ -145,7 +145,7 @@
   <project path="kernel/htc/msm7x30-3.0" name="w-flo/htc7x30-3.0" remote="github" revision="ubuntu-touch-vision" />
 
   <!-- Andromadus changes for repos that are not vision compatible at CM -->
-  <project path="hardware/qcom/display" name="w-flo/android_hardware_qcom_display" remote="github" revision="ubuntu-touch-vision" />
+  <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="github" revision="cm10.1" />
 
   <!--Use old Jellybean branches until required stuff for 7x30 gets merged.-->
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="github" revision="jellybean" />
