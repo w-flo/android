@@ -90,8 +90,8 @@
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
-  <!-- Use most recent audio-caf, the one from canonical repo has some problems -->
-  <project path="hardware/qcom/audio-caf" name="w-flo/android_hardware_qcom_audio-caf" remote="github" revision="ubuntu-touch-vision" />
+  <!-- Use Andromadus audio-caf, the one from canonical repo has some problems -->
+  <project path="hardware/qcom/audio-caf" name="Andromadus/android_hardware_qcom_audio-caf" remote="github" revision="cm10.1" />
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" />
   <project path="hardware/qcom/camera" name="CyanogenMod/android_hardware_qcom_camera" />
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" />
