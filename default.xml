@@ -7,7 +7,7 @@
   <remote  name="github"
            fetch="git://github.com" />
 
-  <default revision="refs/heads/phablet-10.1"
+  <default revision="refs/heads/phablet-saucy"
            remote="phablet"
            sync-c="true"
            sync-j="1" />
