@@ -7,7 +7,7 @@
   <remote  name="github"
            fetch="git://github.com" />
 
-  <default revision="refs/heads/phablet-10.1"
+  <default revision="refs/heads/phablet-saucy"
            remote="phablet"
            sync-c="true"
            sync-j="4" />
@@ -38,7 +38,6 @@
   <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" />
   <project path="external/bzip2" name="CyanogenMod/android_external_bzip2" />
-  <project path="external/chromium" name="CyanogenMod/android_external_chromium" />
   <project path="external/e2fsprogs" name="CyanogenMod/android_external_e2fsprogs" />
   <project path="external/expat" name="CyanogenMod/android_external_expat" />
   <project path="external/flac" name="CyanogenMod/android_external_flac" />
@@ -135,6 +134,7 @@
 
   <project path="ubuntu/assets" name="ubuntu/assets" revision="refs/heads/master" />
   <project path="ubuntu/uchroot" name="ubuntu/uchroot" revision="refs/heads/master" />
+  <project path="ubuntu/upstart-property-watcher" name="ubuntu/upstart-property-watcher" revision="refs/heads/master" />
 
   <!-- HTC/vision specific repos -->
   <project path="device/htc/vision" name="w-flo/android_device_htc_vision" remote="github" revision="ubuntu-touch-vision" />
