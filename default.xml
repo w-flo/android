@@ -139,4 +139,5 @@
 
   <project path="ubuntu/assets" name="ubuntu/assets" revision="refs/heads/master" />
   <project path="ubuntu/uchroot" name="ubuntu/uchroot" revision="refs/heads/master" />
+  <project path="ubuntu/upstart-property-watcher" name="ubuntu/upstart-property-watcher" revision="refs/heads/master" />
 </manifest>
