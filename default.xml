@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="phablet"
-           fetch="git://phablet.ubuntu.com" />
+           fetch=".." />
 
   <remote  name="github"
            fetch="git://github.com" />
