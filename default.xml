@@ -34,8 +34,6 @@
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" groups="device" />
 
   <project path="external/aac" name="CyanogenMod/android_external_aac" />
-  <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
-  <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" />
   <project path="external/bzip2" name="CyanogenMod/android_external_bzip2" />
   <project path="external/e2fsprogs" name="CyanogenMod/android_external_e2fsprogs" />
@@ -64,6 +62,7 @@
   <project path="external/skia" name="CyanogenMod/android_external_skia" />
   <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" />
   <project path="external/speex" name="CyanogenMod/android_external_speex" />
+  <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" />
   <project path="external/stlport" name="CyanogenMod/android_external_stlport" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" />
   <project path="external/tinyalsa" name="CyanogenMod/android_external_tinyalsa" />
