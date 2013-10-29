@@ -7,7 +7,7 @@
   <remote  name="github"
            fetch="git://github.com" />
 
-  <default revision="refs/heads/phablet-saucy"
+  <default revision="refs/heads/phablet-trusty"
            remote="phablet"
            sync-c="true"
            sync-j="4" />
@@ -117,7 +117,7 @@
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" groups="linux" revision="refs/tags/android-4.2.2_r1" />
   <project path="prebuilts/misc" name="platform/prebuilts/misc" revision="refs/tags/android-4.2.2_r1" />
   <project path="prebuilts/ndk" name="platform/prebuilts/ndk" revision="refs/tags/android-4.2.2_r1" />
-  <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" revision="refs/tags/android-4.2.2_r1" />
+  <project path="prebuilts/qemu-kernel" name="CyanogenMod/ubuntu_prebuilts_qemu_kernel" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" revision="refs/tags/android-4.2.2_r1" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" revision="refs/tags/android-4.2.2_r1" />
   <project path="prebuilts/gcc/linux-x86/arm/linaro-4.7.2" name="platform/prebuilts/linaro-4.7.2" revision="refs/heads/master" />
