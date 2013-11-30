@@ -139,7 +139,7 @@
 
   <!-- HTC/vision specific repos -->
   <project path="device/htc/vision" name="w-flo/android_device_htc_vision" remote="github" revision="ubuntu-touch-vision" />
-  <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="github" revision="jb4.2" />
+  <project path="vendor/htc/vision" name="w-flo/proprietary_htc_vision" remote="github" revision="ubuntu-touch-vision" />
   <project path="device/htc/common" name="Andromadus/android_device_htc_common" remote="github" revision="jb" />
   <project path="device/htc/msm7x30-common" name="w-flo/android_device_htc_msm7x30-common" remote="github" revision="ubuntu-touch-vision" />
   <project path="kernel/htc/msm7x30-3.0" name="w-flo/htc7x30-3.0" remote="github" revision="ubuntu-touch-vision" />
